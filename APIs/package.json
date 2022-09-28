@@ -1,0 +1,13 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": { "start": "node main.js"},
+  "keywords": [],
+  "author": "Ivanzito",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
